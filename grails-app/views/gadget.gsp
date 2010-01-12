@@ -1,0 +1,1 @@
+<%@page contentType="text/xml; charset=UTF-8" @%><g:gadget title="Hello World title" features="['wave', 'flash']">Hello World</g:gadget>
